@@ -1,16 +1,46 @@
-### Hi there 👋
+# Bob Fornal (bob.js)
 
-<!--
-**bob-fornal/bob-fornal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Solutions Developer (Front-End focused) with a passion for learning, testing, mentoring, speaking and personal growth.
 
-Here are some ideas to get you started:
+Proud father of two!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Location**: Columbus, Ohio
+* **Company**: [Leading EDJE, Inc.](http://www.leadingedje.com)
+
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Frfornal)
+
+## Technology
+
+### Core
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+
+![SVG](https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=white&style=for-the-badge)
+
+## Frameworks / Libraries / Tools
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white&style=for-the-badge)
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node-dot-js&logoColor=white&style=for-the-badge)
+
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white&style=for-the-badge)
+
+![Grunt](https://img.shields.io/badge/Grunt-FBA919?logo=grunt&logoColor=white&style=for-the-badge)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+
+## Testing
+
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge)
+
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
