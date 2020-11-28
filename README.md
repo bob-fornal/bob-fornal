@@ -7,7 +7,11 @@ Proud father of two!
 * **Location**: Columbus, Ohio
 * **Company**: [Leading EDJE, Inc.](http://www.leadingedje.com)
 
-![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=social&link=https%3A%2F%2Ftwitter.com%2Frfornal)
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Frfornal)
+
+<a href="https://twitter.com/rfornal">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter?label=Twitter&style=social">
+</a>
 
 ![DEV.TO](https://img.shields.io/badge/DEV.TO-0A0A0A?logo=dev.to&style=social&url=https%3A%2F%2Ftwitter.com%2Frfornal)
 
