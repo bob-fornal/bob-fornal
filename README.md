@@ -30,6 +30,7 @@ Proud father of two!
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/Vue.js-61DAFB?logo=vue.js&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
