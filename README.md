@@ -21,13 +21,23 @@ Proud father of two!
 
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?logo=svg&logoColor=white&style=for-the-badge)
 
-## Frameworks / Libraries / Tools
+## Frameworks / Libraries
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge) ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=white&style=for-the-badge)
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node-dot-js&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-61DAFB?logo=vue.js&logoColor=white&style=for-the-badge)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
+## Testing
+
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge)
+
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+
+## Tools
 
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=white&style=for-the-badge)
 
@@ -39,8 +49,3 @@ Proud father of two!
 
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 
-## Testing
-
-![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge)
-
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
