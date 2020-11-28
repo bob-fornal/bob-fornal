@@ -10,9 +10,11 @@ Proud father of two!
 <a href="https://twitter.com/rfornal">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=blue&labelColor=white&style=for-the-badge" />
 </a>
-
 <a href="https://dev.to/rfornal">
   <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?logo=dev.to&logoColor=black&labelColor=white&style=for-the-badge" />
+</a>
+<a href="https://rfornal.hashnode.dev/">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=blue&labelColor=white&style=for-the-badge" />
 </a>
 
 ## Technology
