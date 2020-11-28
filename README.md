@@ -8,10 +8,12 @@ Proud father of two!
 * **Company**: [Leading EDJE, Inc.](http://www.leadingedje.com)
 
 <a href="https://twitter.com/rfornal">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=blue&style=social" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=blue&labelColor=white&style=for-the-badge" />
 </a>
 
-![DEV.TO](https://img.shields.io/badge/DEV.TO-0A0A0A?logo=dev.to&style=social&url=https%3A%2F%2Ftwitter.com%2Frfornal)
+<a href="https://dev.to/rfornal">
+  <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?logo=dev.to&logoColor=black&labelColor=white&style=for-the-badge" />
+</a>
 
 ## Technology
 
