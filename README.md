@@ -27,6 +27,13 @@ Proud father of two!
 
 ## Technology
 
+## Certification
+
+| Category | Certification |
+|-|-|
+| ![](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | Certified Developer |
+
+
 ### Core
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
