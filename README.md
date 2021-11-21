@@ -55,3 +55,7 @@ Proud father of two!
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+
+## Fan Moments
+
+<img src="https://raw.githubusercontent.com/prafulla-codes/sorting-hat/master/pics/slytherin_badge.gif" width="165px" />
