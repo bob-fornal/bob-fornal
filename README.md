@@ -1,4 +1,4 @@
-# Bob Fornal (bob.js)
+# Bob Fornal (bob.ts)
 
 Senior Solutions Developer (Front-End focused) with a passion for learning, testing, mentoring, speaking and personal growth.
 
