@@ -66,3 +66,7 @@ Proud father of two!
 ## Fan Moments
 
 <img src="https://raw.githubusercontent.com/prafulla-codes/sorting-hat/master/pics/slytherin_badge.gif" width="165px" />
+
+## Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
