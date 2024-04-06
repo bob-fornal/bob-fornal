@@ -5,6 +5,7 @@ Senior Solutions Developer (Front-End focused) with a passion for learning, test
 Proud father of two!
 
 * **Location**: Columbus, Ohio
+* **Company**: [Code Squid LLC](https://code-squid.com)
 * **Company**: [Leading EDJE, Inc.](http://www.leadingedje.com)
 
 ## Social Media
